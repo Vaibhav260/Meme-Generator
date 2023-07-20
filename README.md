@@ -1,1 +1,1 @@
-Simple react app made using react 
+Meme generator app made using react 
